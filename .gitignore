@@ -1,0 +1,10 @@
+# Altium Designer
+__Previews/
+History/
+*.ldb
+*.Harness
+*.IntLib
+
+# LTSpice
+*.raw
+*.log
